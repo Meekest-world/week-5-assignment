@@ -49,6 +49,7 @@ li a:hover {
   height: 900px;
   text-align: center;
   padding: 200px;
+  background-attachment: fixed;
   
 }
 .btn {
@@ -200,4 +201,7 @@ textarea {
 .push img {
   border: none;
   height: 10px;
+}
+.meekest{
+  background-color: linear-gadient(to right, red yellow green);
 }
