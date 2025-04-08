@@ -29,7 +29,6 @@ li {
   display: inline;
   color: #0ff;
   padding: 5px;
- 
 }
 a {
   text-decoration: none;
@@ -39,7 +38,7 @@ a {
 li a:hover {
   text-decoration: underline;
   transform: scale(1.1);
-  transition:  all 1s ease-in-out;
+  transition: all 1s ease-in-out;
 }
 
 .bcg {
@@ -50,7 +49,6 @@ li a:hover {
   text-align: center;
   padding: 200px;
   background-attachment: fixed;
-  
 }
 .btn {
   background-color: #0ff;
@@ -106,7 +104,6 @@ li a:hover {
   width: 140px;
   border-radius: 10px;
   padding: 10px 2px;
-
 }
 .all-2 {
   height: 170px;
@@ -202,6 +199,6 @@ textarea {
   border: none;
   height: 10px;
 }
-.meekest{
+.meekest {
   background-color: linear-gadient(to right, red yellow green);
 }
